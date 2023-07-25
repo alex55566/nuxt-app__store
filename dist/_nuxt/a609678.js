@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{195:function(n,t,o){o(196),n.exports=o(197)},264:function(n,t,o){"use strict";o.r(t),o.d(t,"state",(function(){return r}));var r=function(){return{fruits:[1,2,3,4,5]}}}},[[195,5,1,6]]]);
